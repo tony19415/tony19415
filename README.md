@@ -3,7 +3,7 @@
 
 `Data Enthusiast`
 
-We live in a datafied society hungry to construct connections and discover patterns. 
+Doing my part in a datafied society hungry to construct connections and discover patterns. 
 My role is to connect the dots of data to bring digital solutions to clients whether that is through the means of a data pipeline, dashboard or more.
 
 ## About me:
