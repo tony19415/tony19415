@@ -3,9 +3,10 @@
 
 `Data Enthusiast`
 
-Connecting the dots of data to bring digital solutions to clients whether that is a data pipeline, dashboard or more.
+We live in a datafied society hungry to construct connections and discover patterns. 
+My role is to connect the dots of data to bring digital solutions to clients whether that is through the means of a data pipeline, dashboard or more.
 
-About me:
+## About me:
 
 - 🔭 I’m currently working on personal projects that combines data engineering, data analysis and data science
 - 🌱 I’m currently learning databricks, MLOps, and more
