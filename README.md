@@ -2,6 +2,7 @@
 
 
 `Data Enthusiast`
+
 Connecting the dots of data to bring digital solutions to clients whether that is a data pipeline, dashboard or more.
 
 About me:
