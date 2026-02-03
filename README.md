@@ -20,3 +20,5 @@ My role is to connect the dots of data to bring digital solutions to clients whe
 <code><img src="https://github.com/user-attachments/assets/286319ae-2d9e-4fc6-acc4-9b2c21908190" alt="git" height="30"></code>
 <code><img src="https://github.com/user-attachments/assets/9b869a60-aba8-400c-9ff7-9a0f9351adef" alt="PostgreSQL" height="30"></code>
 <code><img src="https://github.com/user-attachments/assets/552323f4-c66e-479a-a1cc-5accfa6d7a16" alt="Python" height="30"></code>
+<code><img src="https://github.com/user-attachments/assets/fb754415-99c1-4481-969c-3834352e47a6" alt="MLflow" height="30"></code>
+<code><img src="https://github.com/user-attachments/assets/41a16e07-d903-4ead-917d-c1eb7c6ac532" alt="Docker" height="30"></code>
